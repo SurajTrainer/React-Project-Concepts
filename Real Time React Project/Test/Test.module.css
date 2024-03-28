@@ -1,0 +1,55 @@
+
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 11% auto; 
+    width: 50%;
+}
+
+
+.test1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 11% auto; 
+    width: 50%;
+}
+
+.questionNo{
+    margin: 12px 0 5px;
+    font-size: 23px;
+}
+
+.questionData{
+    padding: 12px 30px;
+    font-size: 25px;
+    color: black;
+}
+
+.strong{
+    color: rgb(199, 26, 26);
+    font-size: 30px;
+}
+
+
+.question{
+    margin: 1px 0 5px;
+    font-size: 30px;
+}
+
+.answer{
+    font-size: 20px; 
+    width: 40%;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.optionBtn{
+display: flex;
+width: 50%;
+text-align: center;
+cursor: pointer;
+margin: 6px 3px;
+}
+
